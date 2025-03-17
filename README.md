@@ -19,7 +19,7 @@ This project explores the effectiveness of **Fast Fourier Transform (FFT)** for 
 4. **Granger Causality Analysis**  
    - Tested if AAVE Fourier features **Granger-cause** BTC price movements.
 
-## 🔥 Results
+##  Results
 | Model                | RMSE  |
 |----------------------|------|
 | **Ridge Regression** | 0.024 |
@@ -31,7 +31,7 @@ This project explores the effectiveness of **Fast Fourier Transform (FFT)** for 
 
 ## 📈 Key Visualizations
 ### Power Spectral Density (PSD) of Log-Returns
-![PSD Plot](images/psd_plot.png)
+![PSD Plot]()
 
 ### FFT-LSTM: Actual vs. Predicted Price
 ![FFT Prediction](images/fft_prediction.png)
@@ -42,3 +42,17 @@ This project explores the effectiveness of **Fast Fourier Transform (FFT)** for 
 - Extend analysis to **other cryptocurrencies** to validate cross-market dependencies.
 
 ## 📂 Repository Structure
+
+## 🛠 Setup & Usage
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/cryptocurrency-forecasting.git
+cd cryptocurrency-forecasting
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the main script
+python main.py
+```
+For queries, reach out to Shivam Singh(shs046@ucsd.edu) and Albert Zhong(azhong@ucsd.edu)
