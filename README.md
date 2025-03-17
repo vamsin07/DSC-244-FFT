@@ -41,8 +41,8 @@ This project explores the effectiveness of **Fast Fourier Transform (FFT)** for 
 ## 🛠 Setup & Usage
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/cryptocurrency-forecasting.git
-cd cryptocurrency-forecasting
+git clone https://github.com/vamsin07/DSC-244-FFT.git
+cd DSC-244-FFT
 
 # Install dependencies
 pip install -r requirements.txt
