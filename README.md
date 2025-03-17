@@ -29,12 +29,7 @@ This project explores the effectiveness of **Fast Fourier Transform (FFT)** for 
 - **FFT-based LSTM captured periodic patterns** but had higher RMSE.
 - **Granger Causality confirmed that AAVE signals influence BTC prices** (p = 0.0034).
 
-## 📈 Key Visualizations
-### Power Spectral Density (PSD) of Log-Returns
-![PSD Plot]()
 
-### FFT-LSTM: Actual vs. Predicted Price
-![FFT Prediction](images/fft_prediction.png)
 
 ## 🚀 Future Work
 - Optimize **hyperparameters** for the FFT-LSTM model.
