@@ -20,10 +20,10 @@ This project explores the effectiveness of **Fast Fourier Transform (FFT)** for 
    - Tested if AAVE Fourier features **Granger-cause** BTC price movements.
 
 ##  Results
-| Model                | RMSE  |
+| Model                | RMSE Raw Price USDT |
 |----------------------|------|
-| **Ridge Regression** | 0.024 |
-| **FFT-Based LSTM**   | 0.04507 |
+| **Ridge Regression** | 5.15 |
+| **FFT-Based LSTM**   | 0.015 |
 
 - **Regression performed better** in direct price estimation.
 - **FFT-based LSTM captured periodic patterns** but had higher RMSE.
